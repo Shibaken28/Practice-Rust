@@ -9,8 +9,8 @@
 
 ### 整数
 
-| 内容 | リンク |
-|:-----------|:------------|
-| 素数判定 | [is_prime](./number/is_prime/src/main.rs) |
-| 素数篩 | [prime_sieve](./number/prime_sieve/src/main.rs) |
-
+| 内容 | ソースコード | 説明へのリンク |
+|:-----------|:------------|:------------|
+| 素数判定 | [ソースコード](./number/is_prime/src/main.rs) | [説明](./number/is_prime/src/README.md) |
+| 素数篩 | [ソースコード](./number/prime_sieve/src/main.rs) | [説明](./number/prime_sieve/src/README.md) |
+| 約数列挙 | [ソースコード](./number/divisor/src/main.rs) | [説明](./number/divisor/src/README.md) |
