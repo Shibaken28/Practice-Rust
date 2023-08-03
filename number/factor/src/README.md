@@ -15,5 +15,5 @@ factor2(12) -> [(2, 2), (3, 1)] // 2^2 * 3^1 = 12
 ```
 
 ## Verify
-[アルゴリズムと数学　演習問題集 014 - Factorization](https://atcoder.jp/contests/math-and-algorithm/submissions/44208636)
-[アルゴリズムと数学　演習問題集 014 - Factorization](https://atcoder.jp/contests/math-and-algorithm/submissions/44208832)
+- [アルゴリズムと数学　演習問題集 014 - Factorization](https://atcoder.jp/contests/math-and-algorithm/submissions/44208636)
+- [アルゴリズムと数学　演習問題集 014 - Factorization](https://atcoder.jp/contests/math-and-algorithm/submissions/44208832)

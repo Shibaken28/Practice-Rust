@@ -15,4 +15,6 @@
 | 素数篩 | [ソースコード](./number/prime_sieve/src/main.rs) | [説明](./number/prime_sieve/src/README.md) |
 | 約数列挙 | [ソースコード](./number/divisor/src/main.rs) | [説明](./number/divisor/src/README.md) |
 | 素因数分解 | [ソースコード](./number/factor/src/main.rs) | [説明](./number/factor/src/README.md) |
+| GCD, LCM | [ソースコード](./number/gcd_lcm/src/main.rs) | [説明](./number/gcd_lcm/src/README.md) |
+
 

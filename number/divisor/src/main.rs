@@ -26,5 +26,3 @@ fn main() {
         println!("{}", i);
     }
 }
-
-// verify https://atcoder.jp/contests/tessoku-book/submissions/44208043

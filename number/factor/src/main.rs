@@ -48,21 +48,3 @@ fn main() {
     println!();
 }
 
-/*
-fn main() {
-    input! {
-        n: i64,
-    }
-    let res = factor2(n);
-    for (f, cnt) in res {
-        for _ in 0..cnt {
-            print!("{} ", f);
-        }
-    }
-    println!();
-}
-*/
-
-
-// verify https://atcoder.jp/contests/math-and-algorithm/submissions/44208636
-// verify factor2 https://atcoder.jp/contests/math-and-algorithm/submissions/44208832
