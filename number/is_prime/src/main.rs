@@ -28,4 +28,4 @@ fn main() {
     }
 }
 
-// Verify https://atcoder.jp/contests/tessoku-book/submissions/44206828
+// verify https://atcoder.jp/contests/tessoku-book/submissions/44206828

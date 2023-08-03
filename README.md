@@ -11,6 +11,6 @@
 
 | 内容 | リンク |
 |:-----------|:------------|
-| 素数判定 | [is_prime.rs](./number/is_prime/src/main.rs) |
-
+| 素数判定 | [is_prime](./number/is_prime/src/main.rs) |
+| 素数篩 | [prime_sieve](./number/prime_sieve/src/main.rs) |
 
